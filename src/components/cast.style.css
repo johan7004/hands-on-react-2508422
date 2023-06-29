@@ -2,6 +2,13 @@
  
   flex: 0 0 25%;
 
+  
+
+}
+
+#cast-item p{
+  display: flex;
+  flex-direction: column;
 }
 
 #cast-item-container{
